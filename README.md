@@ -18,7 +18,12 @@
 <div align="center">
 </div>
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=takashinnosuke&theme=transparent)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=takashinnosuke&theme=transparent)
-
-
+<summary><h2>📊 GitHub Analytics</h2></summary>
+<div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takashinnosuke&theme=tokyonight" width="100%"/>
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=takashinnosuke&theme=tokyonight" width="33%">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=takashinnosuke&theme=tokyonight" width="33%">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=takashinnosuke&theme=tokyonight" width="33%">
+  </p>
+</div>

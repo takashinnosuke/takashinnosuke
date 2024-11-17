@@ -18,7 +18,7 @@
 <div align="center">
 </div>
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=takashinnosuke)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=takashinnosuke)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=takashinnosuke&theme=transparent)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=takashinnosuke&theme=transparent)
 
 

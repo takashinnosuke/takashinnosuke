@@ -13,6 +13,8 @@
     <img src="https://img.shields.io/badge/kaggle-0077B5?style=for-the-badge&logo=k&logoColor=white&style=plastic" height="35"/>
   </a>
 
+  ---
+
 <div align="center">
 </div>
 
